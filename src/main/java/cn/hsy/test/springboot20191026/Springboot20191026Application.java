@@ -9,7 +9,5 @@ public class Springboot20191026Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Springboot20191026Application.class, args);
 	}
-	
-	//hsgµÄ¸Ä¶¯----------------------ssss
 
 }
